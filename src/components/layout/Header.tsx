@@ -48,7 +48,9 @@ const Header = () => {
                 <Zap className="w-6 h-6 text-blue-500" />
               </div>
             </div>
-            <span className="text-xl font-bold text-white">CoThinkTech</span>
+            <span className="text-xl font-bold text-slate-900 dark:text-white">
+              CoThinkTech
+            </span>
           </Link>
 
           {/* Desktop Navigation */}
